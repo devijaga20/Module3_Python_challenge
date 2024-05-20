@@ -88,8 +88,7 @@ def analyze_budget_data(file_path):
     }
 
 # path to CSV file
-file_path = "C:\\Users\HP\OneDrive\Documents\Data bootcamp\Homework\Python-challenge_Assignment3\Starter_Code (2)\Starter_Code\PyBank\Resources\\budget_data.csv"
-
+file_path = "C:\\Users\HP\OneDrive\Documents\Data bootcamp\Homework\Python Homework\Module3_Python_challenge\PyBank\Resources\\budget_data.csv"
 # Get results
 total_months = count_months(csv_filepath)
 final_sum = calculate_net_total(csv_filepath)
@@ -110,6 +109,6 @@ output = (
 print(output)
 
 # Export the analysis to a text file
-output_file_path = "financial_analysis.txt"
+output_file_path = "./PyPoll/analysis/financial_analysis.txt"
 with open(output_file_path, mode='w') as output_file:
     output_file.write(output)

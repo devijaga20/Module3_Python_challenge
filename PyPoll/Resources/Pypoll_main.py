@@ -49,9 +49,10 @@ def analyze_election(file_path):
     print(output)
 
     # Write the results to a text file
-    output_file_path = 'election_results.txt'
+    output_file_path = "./PyBank/analysis/election_results.txt"
     with open(output_file_path, mode='w') as output_file:
         output_file.write(output)
+
 
 # Path to your election_data.csv file
 file_path = "C:\\Users\\HP\\OneDrive\\Documents\\Data bootcamp\\Homework\\Python-challenge_Assignment3\\Starter_Code (2)\\Starter_Code\\PyPoll\\Resources\\election_data.csv"

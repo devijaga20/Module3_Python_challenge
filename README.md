@@ -1,1 +1,1 @@
-I worked with my personal tutor/mentor to complete this assignment. He helped me develop the logic , write the code and debug the errors in my code. I also used Stack overflow , copilot/chat gpt  to write the code and debu errors. 
+I worked with my personal tutor/mentor to complete this assignment. He helped me develop the logic , write the code and debug the errors in my code. I also used Stack overflow , w3schools, programiz, geeksforgeeks, copilot/chat gpt, many youtube tutorials  to write the code, debug errors and printing the output. 

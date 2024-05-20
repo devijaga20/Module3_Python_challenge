@@ -15,7 +15,7 @@ def count_months(csv_filepath):
     return month_count
 
 # Path to the CSV file
-csv_filepath = "C:\\Users\HP\OneDrive\Documents\Data bootcamp\Homework\Python-challenge_Assignment3\Starter_Code (2)\Starter_Code\PyBank\Resources\\budget_data.csv"
+csv_filepath = "C:\\Users\HP\OneDrive\Documents\Data bootcamp\Homework\Python Homework\Module3_Python_challenge\PyBank\Resources\\budget_data.csv"
 total_months = count_months(csv_filepath)
 print(f"Total number of months: {total_months}")
 
@@ -36,7 +36,7 @@ def calculate_net_total(csv_filepath):
     return sum
 
 # Path to the CSV file
-csv_filepath = "C:\\Users\HP\OneDrive\Documents\Data bootcamp\Homework\Python-challenge_Assignment3\Starter_Code (2)\Starter_Code\PyBank\Resources\\budget_data.csv"
+csv_filepath = "C:\\Users\HP\OneDrive\Documents\Data bootcamp\Homework\Python Homework\Module3_Python_challenge\PyBank\Resources\\budget_data.csv"
 final_sum= calculate_net_total(csv_filepath)
 print(f"Net total amount of Profit/Losses: {final_sum}")
 

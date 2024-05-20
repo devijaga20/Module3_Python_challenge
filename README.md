@@ -1,1 +1,1 @@
-# Module3_Python_challenge
+I worked with my personal tutor/mentor to complete this assignment. He helped me develop the logic , write the code and debug the errors in my code. I also used Stack overflow , copilot/chat gpt  to write the code and debu errors. 
